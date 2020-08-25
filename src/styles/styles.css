@@ -105,11 +105,15 @@
 }
 
 .socials {
-  position: absolute;
+  /* position: absolute;
   bottom: 60px;
   display: flex;
-  flex-direction: column;
+  flex-direction: column; */
+  /* margin-top: 60px; */
+  position: fixed;
+  bottom: 10px;
 }
+
 .subtitle {
   margin-bottom: 20px;
 }
