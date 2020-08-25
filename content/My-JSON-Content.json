@@ -1,0 +1,52 @@
+{
+  "content": [
+    {
+      "name": "WordBlitz",
+      "desc": "A game to test your typing speed",
+      "link": "https://www.wordblitz.ca/",
+      "img": "https://raw.githubusercontent.com/ChrisCosentino/WordBlitz/master/client/public/favicon.ico",
+      "github": "https://github.com/ChrisCosentino/WordBlitz",
+      "tools": ["React", "Node", "Context API", "Express"]
+    },
+    {
+      "name": "Movie DB",
+      "desc": "A website for users to search and find info about all types of movies",
+      "link": "https://moviedb6757.netlify.app/",
+      "img": "https://raw.githubusercontent.com/ChrisCosentino/movie-db/master/public/favicon.ico",
+      "github": "https://github.com/ChrisCosentino/movie-db",
+      "tools": ["React", "Context API", "Netlify"]
+    },
+    {
+      "name": "Strawvote",
+      "desc": "A voting app where users can create polls and share to others",
+      "link": "https://strawvote.herokuapp.com/#/",
+      "img": "https://raw.githubusercontent.com/ChrisCosentino/StrawVote/master/client/public/favicon.ico",
+      "github": "https://github.com/ChrisCosentino/StrawVote",
+      "tools": ["React", "Node", "Express", "Heroku"]
+    },
+    {
+      "name": "Corona Tracker",
+      "desc": "A coronavirus cases tracker with an interactive map",
+      "link": "https://chriscosentino.github.io/corona-tracker/",
+      "img": "",
+      "github": "https://github.com/ChrisCosentino/corona-tracker",
+      "tools": ["React", "gh Pages", "MapChart"]
+    },
+    {
+      "name": "Book Source",
+      "desc": "An e-commerce book store created for my final year building e-commerce systems course",
+      "link": "https://book-source.herokuapp.com/",
+      "img": "",
+      "github": "https://github.com/ChrisCosentino/BookSource",
+      "tools": ["Java", "Spring Boot", "Node", "Express"]
+    },
+    {
+      "name": "Login Page Layout Template",
+      "desc": "A responsive login page layout I've made for a site like Uber ",
+      "link": "https://chriscosentino.github.io/LoginPageLayout/",
+      "img": "",
+      "github": "https://github.com/ChrisCosentino/LoginPageLayout",
+      "tools": ["HTML", "CSS"]
+    }
+  ]
+}
