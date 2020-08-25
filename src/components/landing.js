@@ -5,7 +5,7 @@ import { Link } from "gatsby"
 const Landing = () => {
   return (
     <div className="landing-container">
-      <div className="meta">Hey, I'm Chris</div>
+      <div className="meta">Hi, I'm Chris</div>
       <div className="large">Software Developer</div>
       <Link className="btn projects" to="/projects">
         Projects
