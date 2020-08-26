@@ -8,13 +8,6 @@ import Landing from "../components/landing"
 import "../styles/styles.css"
 
 const IndexPage = () => {
-  // useFirebase(firebase => {
-  //   firebase.analytics().logEvent("visited_home")
-  // }, [])
-  // useEffect(() => {
-  //   firebase.analytics()
-  // }, [])
-
   useEffect(() => {
     trackCustomEvent({
       category: "Visited",

@@ -38,7 +38,7 @@ const ProjectsPage = () => {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    Visit Github
+                    View Code
                   </a>
                 </div>
               </div>

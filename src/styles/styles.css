@@ -84,8 +84,8 @@
   border: none;
   outline: none;
   padding: 10px 30px;
-  margin-bottom: 10px;
-  margin-top: 10px;
+  /* margin-bottom: 10px; */
+  /* margin-top: 10px; */
   background-color: var(--color-blue);
   color: white;
   font-size: 1rem;
@@ -93,6 +93,7 @@
   -moz-box-shadow: 7px 7px 5px 0px rgba(214, 214, 214, 1);
   box-shadow: 7px 7px 5px 0px rgba(214, 214, 214, 1);
   text-decoration: none;
+  text-align: center;
 }
 
 .hire {
@@ -101,7 +102,7 @@
 
 .btn:hover {
   cursor: pointer;
-  opacity: 0.9;
+  opacity: 0.8;
 }
 
 .socials {
@@ -250,6 +251,21 @@
   color: black;
 }
 
+.links-section {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}
+
+.github {
+  /* background-color: #fb8532; */
+  background-color: #e36209;
+}
+
+.resume {
+  background-color: #db4437;
+}
+
 @media (max-width: 416px) {
   .projects-section {
     grid-template-columns: repeat(1, 1fr);
@@ -268,6 +284,9 @@
   .large {
     font-size: 3.5rem;
   }
+  .links-section {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 @media (max-width: 718px) and (min-width: 416px) {
@@ -280,6 +299,9 @@
   }
   .socials {
     bottom: 0;
+  }
+  .links-section {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
