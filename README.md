@@ -2,4 +2,6 @@
   Chris Cosentino's Project Portfolio
 </h1>
 
-Created using Gatsby!
+<a href="https://www.thecosentino.com">https://www.thecosentino.com</a>
+
+Created using Gatsby

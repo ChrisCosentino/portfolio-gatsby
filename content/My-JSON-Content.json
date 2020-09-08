@@ -1,6 +1,14 @@
 {
   "content": [
     {
+      "name": "Owl Piece",
+      "desc": "A tool to track and get notified on Amazon product price changes.",
+      "link": "https://www.owlpiece.com/",
+      "img": "https://raw.githubusercontent.com/ChrisCosentino/owl-piece/master/client/public/favicon.ico",
+      "github": "https://github.com/ChrisCosentino/owl-piece",
+      "tools": ["React", "Node", "Express", "MongoDB"]
+    },
+    {
       "name": "WordBlitz",
       "desc": "A game to test your typing speed",
       "link": "https://www.wordblitz.ca/",

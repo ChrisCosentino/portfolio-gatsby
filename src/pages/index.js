@@ -1,6 +1,5 @@
 import React, { useEffect } from "react"
 import Helmet from "react-helmet"
-// import firebase from "gatsby-plugin-firebase"
 import { trackCustomEvent } from "gatsby-plugin-google-analytics"
 
 import Landing from "../components/landing"
