@@ -1,6 +1,14 @@
 {
   "content": [
     {
+      "name": "Bio Fonts",
+      "desc": "A tool to change the fonts of social network bios",
+      "link": "https://www.biofonts.ca/",
+      "img": "https://raw.githubusercontent.com/ChrisCosentino/ig-fonts/master/public/favicon.ico",
+      "github": "https://github.com/ChrisCosentino/ig-fonts",
+      "tools": ["React", "State Management", "Unicode", "Netlify"]
+    },
+    {
       "name": "Owl Piece",
       "desc": "A tool to track and get notified on Amazon product price changes.",
       "link": "https://www.owlpiece.com/",
