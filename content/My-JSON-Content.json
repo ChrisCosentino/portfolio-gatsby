@@ -1,6 +1,14 @@
 {
   "content": [
     {
+      "name": "YT Cage",
+      "desc": "Watch YouTube videos in realtime with friends",
+      "link": "https://http://www.ytcage.com",
+      "img": "https://raw.githubusercontent.com/ChrisCosentino/youtube-duo/master/public/favicon.ico",
+      "github": "https://github.com/ChrisCosentino/youtube-duo",
+      "tools": ["React", "State Management", "Firebase", "Netlify"]
+    },
+    {
       "name": "Bio Fonts",
       "desc": "A tool to change the fonts of social network bios",
       "link": "https://www.biofonts.ca/",
